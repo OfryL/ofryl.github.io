@@ -249,6 +249,19 @@ input, select, textarea {
 		width: 100%;
 	}
 
+		.container.nopadding {
+			padding: 0;
+			margin: 0;
+		}
+
+		.container.xxxsmall {
+			width: 2%;
+		}
+
+		.container.xxsmall {
+			width: 10%;
+		}
+
 		.container.xsmall {
 			width: 25%;
 		}
