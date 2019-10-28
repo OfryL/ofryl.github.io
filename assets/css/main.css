@@ -1,5 +1,7 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
+@import url(fontawesome.min.css);
+@import url(brands.min.css);
+@import url(solid.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
 /*
@@ -1862,14 +1864,14 @@
 		position: relative;
 	}
 
-		.icon:before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
-			font-style: normal;
-			font-weight: normal;
-			text-transform: none !important;
-		}
+		/*.icon:before {*/
+		/*	-moz-osx-font-smoothing: grayscale;*/
+		/*	-webkit-font-smoothing: antialiased;*/
+		/*	font-family: FontAwesome;*/
+		/*	font-style: normal;*/
+		/*	font-weight: normal;*/
+		/*	text-transform: none !important;*/
+		/*}*/
 
 		.icon > .label {
 			display: none;
