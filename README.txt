@@ -4,7 +4,7 @@ Welcome to my site repo :)
 
 Credits:
 
-	Theme:
+	Original Theme by:
 		Visualize
 		http://templated.co/
 
