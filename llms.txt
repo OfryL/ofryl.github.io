@@ -1,0 +1,30 @@
+# Ofry Linkovsky
+
+> Software engineer and Platform Engineering Lead — endlessly curious, perpetually tinkering. Personal portfolio at https://ofryl.github.io covering experience, projects, and contact links.
+
+Background: started with a soldering iron and a pile of components — RF circuits, microcontrollers, code that talks to hardware. Still builds for fun (Telegram bots, browser plugins, weekend experiments), lately focused on AI: wiring up LLMs, building agents and MCP servers.
+
+## Experience
+
+- [Tastewise — Platform Engineering Lead](https://ofryl.github.io): Leads a team of 4 driving AI platform initiatives — MCP servers for food & beverage market intelligence, LLM integration, and enterprise SSO. Owns technical direction for frontend infrastructure, E2E testing, and code quality.
+- [Autofleet — Founding Engineer](https://ofryl.github.io): Founding engineer from seed through acquisition in 2024. Built the core platform from zero to serve enterprise clients globally with real-time fleet optimization across React, Node.js, and GCP.
+
+## Projects
+
+- [esp-cyd-mcp](https://github.com/OfryL/esp-cyd-mcp): Control an ESP32 Cheap-Yellow-Display over MCP — bridging LLMs straight to physical hardware (C++).
+- [nullboard-nodejs-agent](https://github.com/OfryL/nullboard-nodejs-agent): Backup agent for Nullboard — saves boards to disk automatically (JavaScript).
+- [Autofleet / locomotion](https://github.com/autofleet/locomotion): Open-source rider/passenger mobile app, customizable for any ride-hailing operation (React Native, Node.js).
+
+## Contributions
+
+- [ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display): Community around a cheap ESP32 display with a touch screen.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): Agentic coding tool that lives in your terminal.
+- [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge): Deluge BitTorrent client.
+
+## Contact
+
+- [Email](mailto:ofryli@gmail.com): ofryli@gmail.com
+- [GitHub](https://github.com/ofryl)
+- [LinkedIn](https://www.linkedin.com/in/ofry-linkovsky/)
+- [Twitter/X](https://twitter.com/0fry)
+- [Telegram](http://bit.ly/2WdiNZE)
